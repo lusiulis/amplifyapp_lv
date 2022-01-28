@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifyapplocal",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "E:\\Aplicaciones\\Tests\\Pancake Interview\\amplifyapp_lv\\amplify\\backend\\api\\amplifyapplocal\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
